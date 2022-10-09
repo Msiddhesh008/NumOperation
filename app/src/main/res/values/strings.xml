@@ -1,0 +1,9 @@
+<resources>
+    <string name="number_of_operation">Number of Operation</string>
+    <string name="calculate">calculate</string>
+    <string name="app_name">Number Of Operation</string>
+    <string name="clear">Clear</string>
+    <string name="enter_global_variable">Enter Global Variable:</string>
+    <string name="exit">Exit</string>
+    <string name="logo">X - + %</string>
+</resources>
